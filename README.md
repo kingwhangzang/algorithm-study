@@ -1,7 +1,7 @@
 # SSAFY 12반 알고리즘 스터디
 
 ### 룰
-- [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)에서 매주 기본 1문제, 응용 1문제 선정
+- [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)에서 매주 기본 1문제, 응용 2문제 선정
 - 문제풀이 및 PR 마감: 토요일 23:59
 - 코드리뷰 마감: 차주 월요일 11:59
 
